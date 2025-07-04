@@ -1,2 +1,13 @@
-ECHO is on.
+# Python virtual environment folder
+myenv/
+
+# File for secrets and API keys
 .env
+
+# Data folders
+faiss_vector_store/
+Pdf_files/
+
+# Python cache files
+__pycache__/
+*.pyc
